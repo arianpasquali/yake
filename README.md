@@ -6,10 +6,12 @@ YAKE! is a lightweight, unsupervised, automatic keyword extraction method that u
 
 ## Key Features
 
-- Unsupervised: No training data required
-- Language Independent: Works across different languages
-- Domain Independent: Effective for various types of content
-- Single-Document: Designed to extract keywords from individual documents
+- **Unsupervised**: No training data required, making it easy to use out-of-the-box
+- **Language Independent**: Works across different languages with built-in support for multiple languages
+- **Domain Independent**: Effective for various types of content including news articles, scientific papers, and web content
+- **Single-Document**: Designed to extract keywords from individual documents without needing a corpus
+- **Customizable**: Offers multiple parameters to fine-tune extraction for specific needs
+
 
 ## Installation
 
